@@ -6,3 +6,4 @@ def first_and_last(message):
 
 print(first_and_last("else"))
 print(first_and_last("tree"))
+print(first_and_last("elephant"))
